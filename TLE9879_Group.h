@@ -1,9 +1,11 @@
-
 /*
  * TLE9879_Group.h
  *
  *  Created on: 19.02.2018
  *      Author: Haidari, Ahmad
+ *
+ *	ESP32 adjusted on: 28.08.2024
+ *		Author: Golba, Szymon
  */
 
 #ifndef TLE9879_FOURPACK_H_
